@@ -18,10 +18,20 @@ This project involves the analysis and automated reporting of marketing campaign
   - Utilize dynamic macros to adjust the time frame and metrics according to user input.
 - **Outcome**: Users can view and compare marketing performance over their desired period, enabling them to identify trends and make informed decisions.
 
-  <img src=https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction/blob/master/app-pic.png>
 
 
-  <img src=https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction/blob/master/app-pic.png>
+
+  <img src=https://github.com/kamaliravi31/Marketing-Campaign-Analysis-and-Reporting-using-Alteryx/blob/main/images/behavior%20over%20time%20altrx.png>
+
+
+
+
+
+  <img src=https://github.com/kamaliravi31/Marketing-Campaign-Analysis-and-Reporting-using-Alteryx/blob/main/images/behavior%20over%20time%20report.png>
+
+
+
+  
 
 ### Popular Products
 - **Task**: Identify and report on the top N popular products.
@@ -30,11 +40,24 @@ This project involves the analysis and automated reporting of marketing campaign
   - Generate ad hoc reports to support marketing strategies.
 - **Outcome**: Users can quickly identify the most popular products, helping them to focus marketing efforts on high-performing items and optimize resource allocation.
 
-  <img src=https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction/blob/master/app-pic.png>
 
-  <img src=https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction/blob/master/app-pic.png>
 
-  <img src=https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction/blob/master/app-pic.png>
+
+  <img src=https://github.com/kamaliravi31/Marketing-Campaign-Analysis-and-Reporting-using-Alteryx/blob/main/images/Popular%20Products%20Top%2010.png>
+
+
+
+
+  <img src=https://github.com/kamaliravi31/Marketing-Campaign-Analysis-and-Reporting-using-Alteryx/blob/main/images/Macro%20for%20Popular%20products.png>
+
+
+
+
+  <img src=https://github.com/kamaliravi31/Marketing-Campaign-Analysis-and-Reporting-using-Alteryx/blob/main/images/top%203%20report.png>
+
+
+
+  
 
 ### Top Marketing Performers by Category
 - **Task**: Analyze and report on the top marketing performers within specific categories.
@@ -43,9 +66,19 @@ This project involves the analysis and automated reporting of marketing campaign
   - Dynamic filtering to ensure relevant and up-to-date information.
 - **Outcome**: Users gain insights into which marketing strategies are most effective within different categories, enabling targeted and efficient marketing campaigns.
 
-  <img src=https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction/blob/master/app-pic.png>
 
-  <img src=https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction/blob/master/app-pic.png>
+
+
+  <img src=https://github.com/kamaliravi31/Marketing-Campaign-Analysis-and-Reporting-using-Alteryx/blob/main/images/Top%20performer%20by%20category%20altrx.png>
+
+
+
+
+  <img src=https://github.com/kamaliravi31/Marketing-Campaign-Analysis-and-Reporting-using-Alteryx/blob/main/images/top%20performing%20by%20category%20report.png>
+
+
+
+  
 
 ### Analytical Application
 - **Task**: Create an analytical application to simplify the user experience.
@@ -54,7 +87,14 @@ This project involves the analysis and automated reporting of marketing campaign
   - Avoids information overload by focusing on user-specified criteria.
 - **Outcome**: Users can easily generate reports tailored to their specific needs, improving decision-making processes and enhancing the overall user experience.
 
-  <img src=https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction/blob/master/app-pic.png>
+
+
+
+  <img src=https://github.com/kamaliravi31/Marketing-Campaign-Analysis-and-Reporting-using-Alteryx/blob/main/images/UA.png>
+
+
+
+  
 
 
 
